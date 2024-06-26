@@ -1,0 +1,1 @@
+This project is a full-stack web application for managing a collection of books. The application includes a backend built with Node.js, Express, and MongoDB, and a frontend built with React, Vite, and Tailwind CSS.
